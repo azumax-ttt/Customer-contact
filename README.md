@@ -47,3 +47,10 @@
 - Streamlit（UI）
 - LangChain, OpenAI API（自然言語処理/検索）
 - PyMuPDF, docx2txt（ドキュメント解析）
+
+
+
+https://github.com/user-attachments/assets/7f43bb69-a49d-4aa1-8ab6-4876738732e3
+
+
+
