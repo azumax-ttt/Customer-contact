@@ -38,6 +38,9 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
+ 
+# .db で始まるディレクトリを無視
+.db*/
 .tox/
 .nox/
 .coverage
@@ -205,3 +208,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+data/rag/company/*
+data/rag/customer/*
+data/rag/service/*
+
+data/slack/*
+
+images/*
