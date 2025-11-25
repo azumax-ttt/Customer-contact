@@ -28,19 +28,6 @@
 ├── logs/                 # ログ
 └── ...
 ```
-
-## セットアップ方法
-
-1. Python 3.11 系の仮想環境を作成し、`env/`を有効化
-2. 依存パッケージをインストール
-   ```sh
-   pip install -r requirements_mac.txt
-   ```
-3. `main.py`を実行
-   ```sh
-   python main.py
-   ```
-
 ## 使用技術
 
 - Python 3.11
